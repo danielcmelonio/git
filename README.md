@@ -129,6 +129,7 @@ Agora ele se encontra na seção _Changes to be commited_ e isso significa que e
 
 ```
 $ git commit -m "Meu primeiro commit"
+```
 
 A opção -m é como uma mensagem que rotula o commit e ela é obrigatória, se você não colocá-la, um editor de texto será aberto para que algo seja escrito. E isso nos dará a seguinte resposta:
 
